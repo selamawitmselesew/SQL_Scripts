@@ -62,3 +62,4 @@ WHERE		ShiftID <> 0
   AND		inventoryid = @inventoryid
 DROP TABLE	#NEW_proc1
 END
+Go
