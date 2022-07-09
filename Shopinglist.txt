@@ -9,4 +9,6 @@ tomoto
 
 Cereal
 flower 
-brrocolly 
+Coliflower 
+Cabbage 
+spinach 
