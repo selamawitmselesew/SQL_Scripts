@@ -13,3 +13,7 @@ brrocolly
 potato
 onion
 carrots 
+
+rice
+Braid
+meat
