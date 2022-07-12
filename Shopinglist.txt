@@ -10,3 +10,6 @@ tomoto
 Cereal
 flower 
 brrocolly 
+potato
+onion
+carrots 
